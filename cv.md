@@ -23,11 +23,11 @@ I am working in Philips as Order Fulfillment Specialist.
 * German **B2**
 * Polish **A2**
 6. Code Example
+
 ```
 function multiply(a, b){
- return a * b
+return a * b
 }
-
 ```
 
 
