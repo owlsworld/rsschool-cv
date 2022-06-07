@@ -24,10 +24,10 @@ I am working in Philips as Order Fulfillment Specialist.
 * Polish **A2**
 6. Code Example
 
-```
+```js
 function multiply(a, b){
 return a * b
-}
+} 
 ```
 
 
