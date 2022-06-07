@@ -1,9 +1,9 @@
-<DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Suslonova Polina CV</title>
-</head>
-<body>
-</body>
-</html>
+# Suslonova Polina CV
+1. Polina Suslonova
+2. Contacts
+* Telegram
++ @spv_mv
+* Phone number
++ +48 789 118 049
+* Email
++ suslonobapolina@gmail.com
