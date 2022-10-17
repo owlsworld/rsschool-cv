@@ -1,0 +1,72 @@
+body {
+  font-family: 'Noto', serif;
+  margin: 0 auto;
+  font-size: 100%;
+  color: darkslategrey;
+}
+* {
+  box-sizing: border-box;
+}
+.header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.profile-img {
+  position: absolute;
+    left: 40px;
+    top: 60px;
+    overflow: hidden;
+}
+.contacts{
+  background: grey;
+  color: white;
+  text-align: center;
+  margin: auto;
+  margin-top: 25px;
+  padding: 5px;
+  font-size: 15px
+ 
+}
+
+.container {
+  padding: 10px;
+  margin: 0 auto;
+  max-width: 55rem;
+  background-color:white;
+}
+h2 {
+  border: 2px solid gray;
+  text-transform: uppercase;
+  padding: 10px;
+}
+li {
+  list-style-type: none;
+ }
+section li::before {
+  content: "☆"; 
+  color:#f3085a; 
+}
+a {
+  text-decoration: none;
+}
+a {
+  color: #61073b;
+}
+a:active {
+  color: #f51515;
+}
+
+.links {
+  margin: 50px 120px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.links img {
+  width: 150px;
+}
+.date {
+  margin: 20px 0 50px;
+  text-align: center;
+  color: #0c2461;
+}
