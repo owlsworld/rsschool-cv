@@ -12,7 +12,6 @@ body {
   margin-bottom: 1.5rem;
 }
 .profile-img {
-  position: absolute;
     left: 40px;
     top: 60px;
     overflow: hidden;
